@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV2", "AV2.csproj", "{CC915EBB-1339-2F5B-B2A6-5367D6543A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV2.Editor", "AV2.Editor.csproj", "{06508BC7-702E-E259-CAFB-CA948379850B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC915EBB-1339-2F5B-B2A6-5367D6543A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC915EBB-1339-2F5B-B2A6-5367D6543A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC915EBB-1339-2F5B-B2A6-5367D6543A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC915EBB-1339-2F5B-B2A6-5367D6543A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06508BC7-702E-E259-CAFB-CA948379850B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06508BC7-702E-E259-CAFB-CA948379850B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06508BC7-702E-E259-CAFB-CA948379850B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06508BC7-702E-E259-CAFB-CA948379850B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
